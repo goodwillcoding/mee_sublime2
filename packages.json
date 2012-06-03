@@ -1,21 +1,19 @@
 {
-	"schema_version": "1.1",
-	"packages":
-	[
-		{
-			"name": "Mee_Sublime2",
-			"description": "Mee Sublime2 settings",
-			"author": "me",
-			"homepage": "http://github.com/michr/mee_sublime2",
-			"last_modified": "Sat Jun  2 23:33:13 PDT 2012",
-			"platforms": {
-				"linux": [
-					{
-						"version": "0.1",
-						"url": "git://github.com/michr/mee_sublime2.git"
-					}
-				]
-			}
-		},
-	]
+    "schema_version": "1.1",
+    "packages":
+    [
+        {
+            "name": "Mee_Sublime2",
+            "description": "Mee Sublime2 settings",
+            "author": "me",
+            "homepage": "http://github.com/michr/mee_sublime2",
+            "last_modified": "Sat Jun  2 23:33:13 PDT 2012",
+            "platforms": {
+                "linux": [
+                    {
+                        "version": "0.1",
+                        "url": "git://github.com/michr/mee_sublime2.git"
+            }
+        },
+    ]
 }

@@ -20,16 +20,16 @@
         "keys": ["ctrl+\\", "s"],
         "command": "show_overlay",
         "args": {"overlay": "command_palette", "text": "Snippet: "}
-    }
+    },
 
-    // addtional keybinding for goto files
+    // additional keybinding for goto files
     {
         "keys": ["ctrl+\\", "f"],
         "command": "show_overlay", "args":
         {"overlay": "goto", "show_files": true}
     },
 
-    // addtional keybinding for command pallete
+    // additional keybinding for command pallete
     {
         "keys": ["ctrl+\\", "p"],
         "command": "show_overlay",

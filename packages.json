@@ -12,7 +12,7 @@
 				"linux": [
 					{
 						"version": "0.1",
-						"url": "https://github.com/michr/mee_sublime2/"
+						"url": "git://github.com/michr/mee_sublime2.git"
 					}
 				]
 			}
